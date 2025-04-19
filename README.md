@@ -29,7 +29,9 @@ The project involved:
 - Jupyter Notebooks
 
 ## Detailed Analysis Report:
-The project includes a comprehensive analysis report with analysis, findings, and strategic recommendations for healthcare staffing optimization. You can view or download the full report from the link below:
-
+The project includes a comprehensive analysis report with analysis, findings, and strategic recommendations for healthcare staffing optimization. You can view or download the full report from the link:
 [Download Healthcare Staffing Analysis and Strategic Recommendations](Healthcare%20Staffing%20Analysis%20and%20Strategic%20Recommendations.pdf)
 
+## Check out the Jupyter Notebook:
+The notebook includes visualizations created with Matplotlib and features a machine learning model implemented using Scikit-learn to analyze and optimize the data.
+You can view or download the notebook from the link: [nurse.ipynb](nurse.ipynb)
