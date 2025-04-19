@@ -29,6 +29,7 @@ The project involved:
 - Jupyter Notebooks
 
 ## Detailed Analysis Report:
-The project includes a comprehensive analysis report that goes into further detail about the methodology, analysis, findings, and recommendations. You can view or download the full report from the following link:
+The project includes a comprehensive analysis report with analysis, findings, and strategic recommendations for healthcare staffing optimization. You can view or download the full report from the link below:
 
-[Download the Detailed Analysis Report (PDF)](reports/Nurse_Staffing_Analysis_Report.pdf)
+[Download Healthcare Staffing Analysis and Strategic Recommendations](Healthcare%20Staffing%20Analysis%20and%20Strategic%20Recommendations.pdf)
+
