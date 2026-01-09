@@ -1,4 +1,4 @@
-# Nurse Staffing Optimization for Healthcare Providers
+# Nurse Staffing Optimization for Healthcare Providers 
 
 ## Objective:
 This project explores the relationship between nurse staffing hours and various factors such as facility ownership type, staffing levels during weekdays vs. weekends, and facility ratings. The goal is to generate actionable insights that can help healthcare staffing providers optimize staffing strategies and improve patient care.
