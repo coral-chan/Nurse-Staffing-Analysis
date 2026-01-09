@@ -34,4 +34,4 @@ The project includes a comprehensive analysis report with analysis, findings, an
 
 ## Check out the Jupyter Notebook:
 The notebook includes visualizations created with Matplotlib and features a machine learning model implemented using Scikit-learn to analyze and optimize the data.
-You can view or download the notebook from the link: [nurse.ipynb](nurse.ipynb)
+You can view or download the notebook from the link: [nurse_code.ipynb](nurse_code.ipynb)
